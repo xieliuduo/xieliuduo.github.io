@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://xieliuduo.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 山药豆的成长日记
+subtitle: "编程改变人生"
+description: "谢刘铎的个人博客"
+keywords: 山药豆, xieliuduo, xliuduo, sheldonkk
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Liuduo Xie
 organization: Sogou, Inc.
 organization_url: https://www.sogou.com
 location: Beijing, China
-email: chumpma@gmail.com
+email: xliuduo@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,17 +77,17 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: xieliuduo/xieliuduo.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: xieliuduo
+
+
+weibo_username: 路过夏末初秋
+zhihu_username: 刘铎姓谢
+
 
 # ---------------- #
 #      Comments    #
@@ -96,10 +96,10 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: xieliuduo
+disqus_username: xieliuduo
 # 在使用 disqus 的时候可点击显示多说评论框
-lazy_load_duoshuo: true
+
 
 # ---------------- #
 #    Analytics     #
@@ -110,6 +110,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [JavaScript, CSS, HTML, HTML5]
+skill_mobile_app_keywords: [css3, HTML5 ,canvas]
+
